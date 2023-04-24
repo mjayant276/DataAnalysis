@@ -1,0 +1,39 @@
+Seq,NationCode,NationName,Gold,Silver,Bronze,Total
+1,AUS,Australia,60,45,46,151
+2,ENG,England,28,31,24,83
+3,IND,India,14,6,9,29
+4,CAN,Canada,11,26,19,56
+5,RSA,South Africa,11,9,12,32
+6,NZL,New Zealand,10,12,9,31
+7,SCO,Scotland,7,13,15,35
+8,WAL,Wales,7,8,10,25
+9,CYP,Cyprus,6,0,2,8
+10,JAM,Jamaica,4,5,5,14
+11,NGR,Nigeria,4,5,2,11
+12,MAS,Malaysia,3,3,7,13
+13,SAM,Samoa,2,2,0,4
+14,SGP,Singapore,2,1,1,4
+15,BOT,Botswana,2,1,0,3
+16,UGA,Uganda,2,0,1,3
+17,PNG,Papua New Guinea,1,2,0,3
+18,TTO,Trinidad and Tobago,1,1,0,2
+19,FIJ,Fiji,1,0,1,2
+20,NIR,Northern Ireland,1,0,1,2
+21,BER,Bermuda,1,0,0,1
+22,GRN,Grenada,1,0,0,1
+23,IVB,British Virgin Is.,1,0,0,1
+24,KEN,Kenya,0,3,3,6
+25,BAH,The Bahamas,0,2,0,2
+26,BAN,Bangladesh,0,2,0,2
+27,SRI,Sri Lanka,0,1,3,4
+28,IOM,Isle of Man,0,1,0,1
+29,MRI,Mauritius,0,1,0,1
+30,NRU,Nauru,0,1,0,1
+31,PAK,Pakistan,0,0,3,3
+32,CMR,Cameroon,0,0,1,1
+33,COK,Cook Islands,0,0,1,1
+34,DMA,Dominica,0,0,1,1
+35,MLT,Malta,0,0,1,1
+36,NFK,Norfolk Island,0,0,1,1
+37,SOL,Solomon Islands,0,0,1,1
+38,VAN,Vanuatu,0,0,1,1

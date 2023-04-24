@@ -1,0 +1,60 @@
+match_id,season,city,date,team1_id,team2_id,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,player_of_match_id,venue,venue_id,umpire1,umpire2
+2017_1,2017,Hyderabad,05-04-2017,SRH,RCB,RCB,field,normal,0,SRH,35,0,Yuvraj Singh,88,"Rajiv Gandhi International Stadium, Hyderabad",4,AY Dandekar,NJ Llong
+2017_2,2017,Pune,06-04-2017,MI,RPS,RPS,field,normal,0,RPS,0,7,Steven Smith,321,Maharashtra Cricket Association Stadium,32,A Nand Kishore,S Ravi
+2017_3,2017,Rajkot,07-04-2017,GL,KKR,KKR,field,normal,0,KKR,0,10,Chris Lynn,343,Saurashtra Cricket Association Stadium,33,Nitin Menon,CK Nandan
+2017_4,2017,Indore,08-04-2017,RPS,KXI,KXI,field,normal,0,KXI,0,6,Glenn Maxwell,429,"Holkar Stadium Cricket Stadium, Indore, Madhya Pradesh",8,AK Chaudhary,C Shamshuddin
+2017_5,2017,Bangalore,08-04-2017,RCB,DD,RCB,bat,normal,0,RCB,15,0,Kedar Jadhav,249,"M.Chinnaswamy Stadium Bengaluru, Karnataka",7,,
+2017_6,2017,Hyderabad,09-04-2017,GL,SRH,SRH,field,normal,0,SRH,0,9,Rashid Khan,634,"Rajiv Gandhi International Stadium, Hyderabad",4,A Deshmukh,NJ Llong
+2017_7,2017,Mumbai,09-04-2017,KKR,MI,MI,field,normal,0,MI,0,4,Nitish Rana,551,"Wankhede Stadium, Mumbai, Maharashtra",1,Nitin Menon,CK Nandan
+2017_8,2017,Indore,10-04-2017,RCB,KXI,RCB,bat,normal,0,KXI,0,8,Axar Patel,485,"Holkar Stadium Cricket Stadium, Indore, Madhya Pradesh",8,AK Chaudhary,C Shamshuddin
+2017_9,2017,Pune,11-04-2017,DD,RPS,RPS,field,normal,0,DD,97,0,Sanju Samson,439,Maharashtra Cricket Association Stadium,32,AY Dandekar,S Ravi
+2017_10,2017,Mumbai,12-04-2017,SRH,MI,MI,field,normal,0,MI,0,4,Jasprit Bumrah,487,"Wankhede Stadium, Mumbai, Maharashtra",1,Nitin Menon,CK Nandan
+2017_11,2017,Kolkata,13-04-2017,KXI,KKR,KKR,field,normal,0,KKR,0,8,Sunil Narine,437,"Eden Garden Stadium, Kolkata, West Bengal",3,A Deshmukh,NJ Llong
+2017_12,2017,Bangalore,14-04-2017,RCB,MI,MI,field,normal,0,MI,0,4,Kieron Pollard,315,"M.Chinnaswamy Stadium Bengaluru, Karnataka",7,KN Ananthapadmanabhan,AK Chaudhary
+2017_13,2017,Rajkot,14-04-2017,RPS,GL,GL,field,normal,0,GL,0,7,Andrew Tye,535,Saurashtra Cricket Association Stadium,33,A Nand Kishore,S Ravi
+2017_14,2017,Kolkata,15-04-2017,KKR,SRH,SRH,field,normal,0,KKR,17,0,Robin Uthappa,141,"Eden Garden Stadium, Kolkata, West Bengal",3,AY Dandekar,NJ Llong
+2017_15,2017,Delhi,15-04-2017,DD,KXI,DD,bat,normal,0,DD,51,0,Corey Anderson,519,"Feroz Shah Kotla Stadium, Delhi",2,YC Barde,Nitin Menon
+2017_16,2017,Mumbai,16-04-2017,GL,MI,MI,field,normal,0,MI,0,6,Nitish Rana,551,"Wankhede Stadium, Mumbai, Maharashtra",1,A Nand Kishore,S Ravi
+2017_17,2017,Bangalore,16-04-2017,RPS,RCB,RCB,field,normal,0,RPS,27,0,Ben Stokes,625,"M.Chinnaswamy Stadium Bengaluru, Karnataka",7,KN Ananthapadmanabhan,C Shamshuddin
+2017_18,2017,Delhi,17-04-2017,DD,KKR,DD,bat,normal,0,KKR,0,4,Nathan Coulter-Nile,484,"Feroz Shah Kotla Stadium, Delhi",2,Nitin Menon,CK Nandan
+2017_19,2017,Hyderabad,17-04-2017,SRH,KXI,KXI,field,normal,0,SRH,5,0,B Kumar,691,"Rajiv Gandhi International Stadium, Hyderabad",4,AY Dandekar,A Deshmukh
+2017_20,2017,Rajkot,18-04-2017,RCB,GL,GL,field,normal,0,RCB,21,0,Chris Gayle,79,Saurashtra Cricket Association Stadium,33,S Ravi,VK Sharma
+2017_21,2017,Hyderabad,19-04-2017,SRH,DD,SRH,bat,normal,0,SRH,15,0,Kane Williamson,564,"Rajiv Gandhi International Stadium, Hyderabad",4,CB Gaffaney,NJ Llong
+2017_22,2017,Indore,20-04-2017,KXI,MI,MI,field,normal,0,MI,0,8,Jos Buttler,581,"Holkar Stadium Cricket Stadium, Indore, Madhya Pradesh",8,M Erasmus,C Shamshuddin
+2017_23,2017,Kolkata,21-04-2017,KKR,GL,GL,field,normal,0,GL,0,4,Suresh Raina,24,"Eden Garden Stadium, Kolkata, West Bengal",3,CB Gaffaney,Nitin Menon
+2017_24,2017,Mumbai,22-04-2017,MI,DD,DD,field,normal,0,MI,14,0,Mitchell McClenaghan,549,"Wankhede Stadium, Mumbai, Maharashtra",1,A Nand Kishore,S Ravi
+2017_25,2017,Pune,22-04-2017,SRH,RPS,RPS,field,normal,0,RPS,0,6,Mahendra Singh Dhoni,1,Maharashtra Cricket Association Stadium,32,AY Dandekar,A Deshmukh
+2017_26,2017,Rajkot,23-04-2017,KXI,GL,GL,field,normal,0,KXI,26,0,Hashim Amla,611,Saurashtra Cricket Association Stadium,33,AK Chaudhary,M Erasmus
+2017_27,2017,Kolkata,23-04-2017,KKR,RCB,RCB,field,normal,0,KKR,82,0,Nathan Coulter-Nile,484,"Eden Garden Stadium, Kolkata, West Bengal",3,CB Gaffaney,CK Nandan
+2017_28,2017,Mumbai,24-04-2017,RPS,MI,MI,field,normal,0,RPS,3,0,Ben Stokes,625,"Wankhede Stadium, Mumbai, Maharashtra",1,A Nand Kishore,S Ravi
+2017_29,2017,Pune,26-04-2017,RPS,KKR,KKR,field,normal,0,KKR,0,7,Robin Uthappa,141,Maharashtra Cricket Association Stadium,32,AY Dandekar,NJ Llong
+2017_30,2017,Bangalore,27-04-2017,RCB,GL,GL,field,normal,0,GL,0,7,Andrew Tye,535,"M.Chinnaswamy Stadium Bengaluru, Karnataka",7,AK Chaudhary,C Shamshuddin
+2017_31,2017,Kolkata,28-04-2017,DD,KKR,KKR,field,normal,0,KKR,0,7,Gautam Gambhir,58,"Eden Garden Stadium, Kolkata, West Bengal",3,NJ Llong,S Ravi
+2017_32,2017,Chandigarh,28-04-2017,SRH,KXI,KXI,field,normal,0,SRH,26,0,Rashid Khan,634,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",9,Nitin Menon,CK Nandan
+2017_33,2017,Pune,29-04-2017,RPS,RCB,RCB,field,normal,0,RPS,61,0,Lockie Ferguson,627,Maharashtra Cricket Association Stadium,32,KN Ananthapadmanabhan,M Erasmus
+2017_34,2017,Rajkot,29-04-2017,GL,MI,GL,bat,tie,0,MI,0,0,Krunal Pandya,582,Saurashtra Cricket Association Stadium,33,AK Chaudhary,CB Gaffaney
+2017_35,2017,Chandigarh,30-04-2017,DD,KXI,KXI,field,normal,0,KXI,0,10,Sandeep Sharma,479,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",9,YC Barde,CK Nandan
+2017_36,2017,Hyderabad,30-04-2017,SRH,KKR,KKR,field,normal,0,SRH,48,0,David Warner,207,"Rajiv Gandhi International Stadium, Hyderabad",4,AY Dandekar,S Ravi
+2017_37,2017,Mumbai,01-05-2017,RCB,MI,RCB,bat,normal,0,MI,0,5,Rohit Sharma,30,"Wankhede Stadium, Mumbai, Maharashtra",1,AK Chaudhary,CB Gaffaney
+2017_38,2017,Pune,01-05-2017,GL,RPS,RPS,field,normal,0,RPS,0,5,Ben Stokes,625,Maharashtra Cricket Association Stadium,32,M Erasmus,C Shamshuddin
+2017_39,2017,Delhi,02-05-2017,SRH,DD,DD,field,normal,0,DD,0,6,Mohammed Shami,647,"Feroz Shah Kotla Stadium, Delhi",2,YC Barde,Nitin Menon
+2017_40,2017,Kolkata,03-05-2017,KKR,RPS,RPS,field,normal,0,RPS,0,4,Rahul Tripathi,630,"Eden Garden Stadium, Kolkata, West Bengal",3,KN Ananthapadmanabhan,A Nand Kishore
+2017_41,2017,Delhi,04-05-2017,GL,DD,DD,field,normal,0,DD,0,7,Rishabh Pant,572,"Feroz Shah Kotla Stadium, Delhi",2,M Erasmus,Nitin Menon
+2017_42,2017,Bangalore,05-05-2017,KXI,RCB,RCB,field,normal,0,KXI,19,0,Sandeep Sharma,479,"M.Chinnaswamy Stadium Bengaluru, Karnataka",7,CB Gaffaney,C Shamshuddin
+2017_43,2017,Hyderabad,06-05-2017,RPS,SRH,SRH,field,normal,0,RPS,12,0,Jaydev Unadkat,361,"Rajiv Gandhi International Stadium, Hyderabad",4,KN Ananthapadmanabhan,AK Chaudhary
+2017_44,2017,Delhi,06-05-2017,MI,DD,DD,field,normal,0,MI,146,0,Lendl Simmons,524,"Feroz Shah Kotla Stadium, Delhi",2,Nitin Menon,CK Nandan
+2017_45,2017,Bangalore,07-05-2017,RCB,KKR,KKR,field,normal,0,KKR,0,6,Sunil Narine,437,"M.Chinnaswamy Stadium Bengaluru, Karnataka",7,AY Dandekar,C Shamshuddin
+2017_46,2017,Chandigarh,07-05-2017,KXI,GL,GL,field,normal,0,GL,0,6,Dwayne Smith,124,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",9,A Nand Kishore,VK Sharma
+2017_47,2017,Hyderabad,08-05-2017,MI,SRH,MI,bat,normal,0,SRH,0,7,Shikhar Dhawan,57,"Rajiv Gandhi International Stadium, Hyderabad",4,KN Ananthapadmanabhan,M Erasmus
+2017_48,2017,Chandigarh,09-05-2017,KXI,KKR,KKR,field,normal,0,KXI,14,0,Mohit Sharma,469,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",9,A Nand Kishore,S Ravi
+2017_49,2017,Kanpur,10-05-2017,GL,DD,DD,field,normal,0,DD,0,2,Shreyas Iyer,537,Green Park,34,YC Barde,AK Chaudhary
+2017_50,2017,Mumbai,11-05-2017,KXI,MI,MI,field,normal,0,KXI,7,0,Wriddhiman Saha,84,"Wankhede Stadium, Mumbai, Maharashtra",1,A Deshmukh,A Nand Kishore
+2017_51,2017,Delhi,12-05-2017,DD,RPS,DD,bat,normal,0,DD,7,0,Karun Nair,458,"Feroz Shah Kotla Stadium, Delhi",2,KN Ananthapadmanabhan,CK Nandan
+2017_52,2017,Kanpur,13-05-2017,GL,SRH,SRH,field,normal,0,SRH,0,8,Mohammed Siraj,681,Green Park,34,AK Chaudhary,Nitin Menon
+2017_53,2017,Kolkata,13-05-2017,MI,KKR,KKR,field,normal,0,MI,9,0,Ambati Rayudu,309,"Eden Garden Stadium, Kolkata, West Bengal",3,A Nand Kishore,S Ravi
+2017_54,2017,Pune,14-05-2017,KXI,RPS,RPS,field,normal,0,RPS,0,9,Jaydev Unadkat,361,Maharashtra Cricket Association Stadium,32,AY Dandekar,A Deshmukh
+2017_55,2017,Delhi,14-05-2017,RCB,DD,RCB,bat,normal,0,RCB,10,0,Harshal Patel,456,"Feroz Shah Kotla Stadium, Delhi",2,CK Nandan,C Shamshuddin
+2017_56,2017,Mumbai,16-05-2017,RPS,MI,MI,field,normal,0,RPS,20,0,Washington Sunder,631,"Wankhede Stadium, Mumbai, Maharashtra",1,S Ravi,C Shamshuddin
+2017_57,2017,Bangalore,17-05-2017,SRH,KKR,KKR,field,normal,1,KKR,0,7,Nathan Coulter-Nile,484,"M.Chinnaswamy Stadium Bengaluru, Karnataka",7,AK Chaudhary,Nitin Menon
+2017_58,2017,Bangalore,19-05-2017,KKR,MI,MI,field,normal,0,MI,0,6,Karn Sharma,254,"M.Chinnaswamy Stadium Bengaluru, Karnataka",7,NJ Llong,Nitin Menon
+2017_59,2017,Hyderabad,21-05-2017,MI,RPS,MI,bat,normal,0,MI,1,0,Krunal Pandya,582,"Rajiv Gandhi International Stadium, Hyderabad",4,NJ Llong,S Ravi
